@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\API\\quickSort\\quickSort\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C0AFDFBA-715D-4C51-A719-BF34C8D8C85A}|quickSort\\quickSort.csproj|d:\\api\\quicksort\\quicksort\\quicksort\\quicksort.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{C0AFDFBA-715D-4C51-A719-BF34C8D8C85A}|quickSort\\quickSort.csproj|solutionrelative:quicksort\\quicksort.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0AFDFBA-715D-4C51-A719-BF34C8D8C85A}|quickSort\\quickSort.csproj|d:\\api\\quicksort\\quicksort\\quicksort\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C0AFDFBA-715D-4C51-A719-BF34C8D8C85A}|quickSort\\quickSort.csproj|solutionrelative:quicksort\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0AFDFBA-715D-4C51-A719-BF34C8D8C85A}|quickSort\\quickSort.csproj|d:\\api\\quicksort\\quicksort\\quicksort\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0AFDFBA-715D-4C51-A719-BF34C8D8C85A}|quickSort\\quickSort.csproj|solutionrelative:quicksort\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0AFDFBA-715D-4C51-A719-BF34C8D8C85A}|quickSort\\quickSort.csproj|d:\\api\\quicksort\\quicksort\\quicksort\\controllers\\quicksort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0AFDFBA-715D-4C51-A719-BF34C8D8C85A}|quickSort\\quickSort.csproj|solutionrelative:quicksort\\controllers\\quicksort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0AFDFBA-715D-4C51-A719-BF34C8D8C85A}|quickSort\\quickSort.csproj|d:\\api\\quicksort\\quicksort\\quicksort\\model\\quicksortreturn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0AFDFBA-715D-4C51-A719-BF34C8D8C85A}|quickSort\\quickSort.csproj|solutionrelative:quicksort\\model\\quicksortreturn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0AFDFBA-715D-4C51-A719-BF34C8D8C85A}|quickSort\\quickSort.csproj|d:\\api\\quicksort\\quicksort\\quicksort\\model\\quicksortreceive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0AFDFBA-715D-4C51-A719-BF34C8D8C85A}|quickSort\\quickSort.csproj|solutionrelative:quicksort\\model\\quicksortreceive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\API\\quickSort\\quickSort\\quickSort\\appsettings.json",
+              "RelativeDocumentMoniker": "quickSort\\appsettings.json",
+              "ToolTip": "D:\\API\\quickSort\\quickSort\\quickSort\\appsettings.json",
+              "RelativeToolTip": "quickSort\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-08T13:12:39.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "quickSort",
+              "DocumentMoniker": "D:\\API\\quickSort\\quickSort\\quickSort\\quickSort.csproj",
+              "RelativeDocumentMoniker": "quickSort\\quickSort.csproj",
+              "ToolTip": "D:\\API\\quickSort\\quickSort\\quickSort\\quickSort.csproj",
+              "RelativeToolTip": "quickSort\\quickSort.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-08T13:05:07.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\API\\quickSort\\quickSort\\quickSort\\Program.cs",
+              "RelativeDocumentMoniker": "quickSort\\Program.cs",
+              "ToolTip": "D:\\API\\quickSort\\quickSort\\quickSort\\Program.cs",
+              "RelativeToolTip": "quickSort\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T08:03:34.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "QuickSortReturn.cs",
+              "DocumentMoniker": "D:\\API\\quickSort\\quickSort\\quickSort\\Model\\QuickSortReturn.cs",
+              "RelativeDocumentMoniker": "quickSort\\Model\\QuickSortReturn.cs",
+              "ToolTip": "D:\\API\\quickSort\\quickSort\\quickSort\\Model\\QuickSortReturn.cs",
+              "RelativeToolTip": "quickSort\\Model\\QuickSortReturn.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIAwwAkAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T08:08:45.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "QuickSortReceive.cs",
+              "DocumentMoniker": "D:\\API\\quickSort\\quickSort\\quickSort\\Model\\QuickSortReceive.cs",
+              "RelativeDocumentMoniker": "quickSort\\Model\\QuickSortReceive.cs",
+              "ToolTip": "D:\\API\\quickSort\\quickSort\\quickSort\\Model\\QuickSortReceive.cs",
+              "RelativeToolTip": "quickSort\\Model\\QuickSortReceive.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T08:05:59.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "QuickSort.cs",
+              "DocumentMoniker": "D:\\API\\quickSort\\quickSort\\quickSort\\Controllers\\QuickSort.cs",
+              "RelativeDocumentMoniker": "quickSort\\Controllers\\QuickSort.cs",
+              "ToolTip": "D:\\API\\quickSort\\quickSort\\quickSort\\Controllers\\QuickSort.cs",
+              "RelativeToolTip": "quickSort\\Controllers\\QuickSort.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAwBsAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T08:04:07.68Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

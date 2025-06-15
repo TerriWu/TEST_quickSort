@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>quickSort</name>
+    </assembly>
+    <members>
+        <member name="M:quickSort.Controllers.QuickSort.QuickSortTest(quickSort.Model.QuickSortReceive)">
+            <summary>
+            快速排序
+            </summary>
+            <param name="quickSortReceive"></param>
+            <returns></returns>
+        </member>
+        <member name="P:quickSort.Model.QuickSortReceive.Data">
+            <summary>
+            需排序資料
+            </summary>
+        </member>
+        <member name="P:quickSort.Model.QuickSortReturn.Message">
+            <summary>
+            錯誤訊息
+            </summary>
+        </member>
+        <member name="P:quickSort.Model.QuickSortReturn.SortData">
+            <summary>
+            排序結果
+            </summary>
+        </member>
+        <member name="P:quickSort.Model.QuickSortReturn.SortCount">
+            <summary>
+            排序次數
+            </summary>
+        </member>
+    </members>
+</doc>

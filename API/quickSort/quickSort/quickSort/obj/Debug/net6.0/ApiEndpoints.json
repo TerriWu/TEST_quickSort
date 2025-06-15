@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "quickSort.Controllers.QuickSort",
+    "Method": "QuickSortTest",
+    "RelativePath": "api/QuickSortTest",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Data",
+        "Type": "System.Int32[]",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

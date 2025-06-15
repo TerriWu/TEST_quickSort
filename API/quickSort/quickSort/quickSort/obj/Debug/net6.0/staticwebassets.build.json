@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "lR/7DuPJRIB5eXIvGbOeHvQvtRVJIytKyJV28hfLRQ8=",
+  "Source": "quickSort",
+  "BasePath": "_content/quickSort",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
